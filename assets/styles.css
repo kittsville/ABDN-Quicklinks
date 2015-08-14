@@ -60,3 +60,10 @@ h1, p {
 	bottom:0;
 	left:0;
 }
+
+img#fork-me {
+	position: absolute;
+	top: 0;
+	right: 0;
+	border: 0;
+}
