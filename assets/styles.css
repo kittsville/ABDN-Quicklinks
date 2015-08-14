@@ -22,15 +22,21 @@ h1, p {
 
 #content {
 	padding-bottom:100px;
+	margin: 0em auto;
+	overflow: auto;
+	display: block;
+	text-align: center;
 }
 
-#links {
-	margin: 0em auto;
+.links {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0em 5px;
 	max-width: 20em;
 	min-width: 200px;
 }
 
-#links a {
+.links a {
 	display: block;
 	background: #FCFCFC;
 	margin: 5px auto;
@@ -41,10 +47,9 @@ h1, p {
 	color: #2F2F2F;
 	width: 100%;
 	vertical-align: middle;
-	text-align: center;
 }
 
-#links a.down {
+.links a.down {
 	background: #F66F66;
 }
 
