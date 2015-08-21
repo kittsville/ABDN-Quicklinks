@@ -16,4 +16,4 @@ GPL v2 or later
 
 ### Disclaimer
 
-As stated on the HTML page itself this is in no way affiliated with the University of Aberdeen. I just made this to make everyone's lives a bit easier.
+As stated on the HTML page itself this is **in no way affiliated with the University of Aberdeen**. I just made this to make everyone's lives a bit easier.
