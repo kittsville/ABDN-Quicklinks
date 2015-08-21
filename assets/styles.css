@@ -31,7 +31,7 @@ h1, p {
 .links {
 	display: inline-block;
 	vertical-align: top;
-	margin: 0em 5px;
+	margin: 0em 10px;
 	max-width: 20em;
 	min-width: 200px;
 }
