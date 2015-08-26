@@ -1,6 +1,7 @@
 {
 	"name": "Aberdeen Uni Quicklinks",
 	"short_name": “Quicklinks",
+	"display": "browser",
 	"icons": [
 		{
 			"src": "\/assets\/favicons\/android-chrome-36x36.png",
