@@ -7,8 +7,10 @@ Created to save a frustrated Computer Science student a few seconds.
 ### Features
 
 - No JavaScript
-- Crap-free page
+- Crap-free page*
 - Responsive design
+
+*Excluding the 18 lines of favicon information (joy of joys)
 
 ### License
 
