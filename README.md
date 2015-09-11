@@ -7,6 +7,7 @@ Created to save a frustrated Computer Science student a few seconds.
 ### Features
 
 - No JavaScript
+- No Tracking/Analytics
 - Crap-free page*
 - Responsive design
 
